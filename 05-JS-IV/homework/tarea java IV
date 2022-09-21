@@ -1,0 +1,5 @@
+    * Objetos: Los objetos contienen muchas propiedades sobre una sola cosa y se inician con {}
+	* Propiedades: es la asociacion entre un nombre y un valor 
+	* Métodos: es una funcion propiedad de un objeto 
+	* Bucle `for…in`: Es un cliclo repetitivo de lectura de cada uno de los objetos 
+	* Notación de puntos vs notación de corchetes: Se usan para acceder a la propiedad del objeto segun la informacion que conocemos utilizamos el . o los { } 
