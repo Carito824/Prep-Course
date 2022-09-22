@@ -1,0 +1,4 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`: En JS el protipo actua como un objeto plantilla que hereda metodos y propiedades para su ejecucion. 
+* _Constructors_ (de Clases): es un metodo especial paraa crear e iniciar un objeto creaado a partir de una clase
